@@ -1,1 +1,1 @@
-print("Hello kings")
+print("Hello queens")
